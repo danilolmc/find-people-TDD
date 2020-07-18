@@ -18,10 +18,7 @@ function encontraPessoa(nome) {
 
         return error;
     }
-
-
 }
-
 
 const valida = (nome) => {
 
